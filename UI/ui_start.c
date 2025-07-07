@@ -83,7 +83,7 @@ void ui_start(void)
 	else if(osKernelGetTickCount ()>=tick+2000)
 	{
 		GUI_SetFont (&GUI_FontHZ_SimSun_16  );
-		GUI_DispStringHCenterAt ("22040506”·≥ø\n22040501≥¬Ó£Ω‡",S_W/2,16);
+		GUI_DispStringHCenterAt ("22ΩÏDXQ",S_W/2,16);
 	}
 	else 
 	{	

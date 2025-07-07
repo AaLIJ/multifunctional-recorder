@@ -953,11 +953,6 @@
               <FileType>5</FileType>
               <FilePath>..\UI\ui_record.h</FilePath>
             </File>
-            <File>
-              <FileName>IMG.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Res\IMG.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
